@@ -1,16 +1,41 @@
-## Hi there 👋
+# 🌌 Hernaczsk.eu — GitHub profil
 
-<!--
-**Herna-czsk/Herna-czsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ahoj! Vítej na oficiálním GitHubu projektu **Hernaczsk.eu** — CZ/SK herní komunita, vlastní servery, weby, boti, AI, …  
+Společně tvoříme kód i zážitky.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🕹️ Na čem aktuálně pracujeme
+- 🎮 Minecraft servery (SMP, modpacky, eventy)
+- 🤖 Discord boti (automaty, bezpečnost…)
+- 🌐 Web + admin rozhraní
+
+---
+
+## 🚀 Naše cíle
+- Vybudovat největší CZ/SK komunitu
+- Spustit plné admin rozhraní
+- Vlastní multiplayer hra
+
+---
+
+## 🧠 Použité technologie
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Node.js](https://img.shields.io/badge/Node.js-16-green?logo=node.js)
+![Docker](https://img.shields.io/badge/Docker-infra-blue?logo=docker)
+
+---
+
+## 🤝 Chceš se přidat?
+- [Discord server](https://discord.gg/dtUV9dVTY3)
+- [Web stránky](https://hernaczsk.eu)
+
+---
+
+## 💬 Kontakt
+**Discord:** [discord.gg/dtUV9dVTY3](https://discord.gg/dtUV9dVTY3)  
+**Web:** [hernaczsk.eu](https://hernaczsk.eu)
+
+---
+
+Přidej se mezi nás a kóduj s nejlepší CZ/SK herní partou! 🚀
