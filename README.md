@@ -22,7 +22,6 @@ Společně tvoříme kód i zážitky.
 ## 🧠 Použité technologie
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Node.js](https://img.shields.io/badge/Node.js-16-green?logo=node.js)
-![Docker](https://img.shields.io/badge/Docker-infra-blue?logo=docker)
 
 ---
 
@@ -34,7 +33,8 @@ Společně tvoříme kód i zážitky.
 
 ## 💬 Kontakt
 **Discord:** [discord.gg/dtUV9dVTY3](https://discord.gg/dtUV9dVTY3)  
-**Web:** [hernaczsk.eu](https://hernaczsk.eu)
+**Web:** [hernaczsk.eu](https://hernaczsk.eu)  
+**LinkTree:** [hernaczsk.eu/tree](https://hernaczsk.eu/tree)
 
 ---
 
